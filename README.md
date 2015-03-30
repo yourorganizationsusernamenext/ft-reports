@@ -45,4 +45,6 @@ SITE: These are issues with one of the online parts of the organization, such as
 
 QUESTION: Rather than an issue, someone is just confused. Poor guy.
 
+CONSTITUTION: Regards the Constitution.
+
 To see what we're currently working on: https://github.com/TheDarkMuffin/ft-reports/issues
