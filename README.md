@@ -44,3 +44,5 @@ ORGANIZATION: These are issues that affect the structure of the organization.
 SITE: These are issues with one of the online parts of the organization, such as the FB Group page, the main site, or the statistics blog by Cave.
 
 QUESTION: Rather than an issue, someone is just confused. Poor guy.
+
+To see what we're currently working on: https://github.com/TheDarkMuffin/ft-reports/issues
