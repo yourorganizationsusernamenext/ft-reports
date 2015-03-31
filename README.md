@@ -35,9 +35,9 @@ SOLVED: We solved the issue.
 ISSUE CATEGORIZATION
 
 
-BUG: An actual issue that impedes on the organization's ability to function at a level that is the norm of organizations. For instance, inability to communicate events effectively.
+BUG: Reporting something wrong or something that should be improved.
 
-SUGGESTION: An improvement on something that is already functioning at the level that it should be. For instance, a more compartmentalized and specific donation system.
+SUGGESTION: A solution or idea for solving a problem or improving something in the organization.
 
 ORGANIZATION: These are issues that affect the structure of the organization.
 
